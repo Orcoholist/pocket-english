@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = "https://pocket-english.ru";
+  const baseUrl = "https://pocket-english.vercel.app";
 
   return [
     {

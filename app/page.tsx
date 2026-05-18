@@ -15,7 +15,7 @@ export default function Home() {
             name: "Татьяна Артеева",
             description:
               "Преподаватель английского языка, Cambridge TKT Band 4",
-            url: "https://pocket-english.ru",
+            url: "https://pocket-english.vercel.app",
             knowsAbout: ["Английский язык", "Преподавание английского"],
             hasCredential: [
               {
@@ -130,7 +130,7 @@ export default function Home() {
                 </span>
               </h1>
               <p className="mt-6 text-lg md:text-xl text-gray-600 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-                Онлайн-уроки английского для взрослых. Групповые и
+                Онлайн-уроки английского для взрослых и детей. Групповые и
                 индивидуальные занятия, разговорный клуб — заговори
                 уверенно, без школьной зубрёжки.
               </p>
@@ -173,7 +173,7 @@ export default function Home() {
                 {/* Main photo */}
                 <div className="absolute inset-8 rounded-full overflow-hidden border-4 border-white shadow-warm-xl">
                   <Image
-                    src="/images/teacher-photo.jpg"
+                    src="/images/teacher-photo1.jpg"
                     alt="Татьяна Артеева"
                     fill
                     className="object-cover"

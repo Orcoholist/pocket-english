@@ -1,5 +1,5 @@
 export default function robots() {
-  const baseUrl = "https://pocket-english.ru";
+  const baseUrl = "https://pocket-english.vercel.app";
 
   return {
     rules: [

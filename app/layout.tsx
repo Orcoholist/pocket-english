@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const baseUrl = "https://pocket-english.ru";
+const baseUrl = "https://pocket-english.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
